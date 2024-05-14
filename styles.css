@@ -1,0 +1,30 @@
+footer#banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 2px;
+
+  padding: 10px 0px;
+  width: 100vw;
+
+  background: #2e2e2e;
+
+  color: white;
+  text-align: center;
+
+  font-size: 0.8rem;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+footer#banner a {
+  color: white;
+}
+
+footer#banner span {
+  color: red;
+  font-weight: 900;
+  font-size: 1rem;
+}
